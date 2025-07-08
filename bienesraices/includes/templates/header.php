@@ -30,5 +30,11 @@
                 </div>
                 
             </div> <!--.barra-->
+            <?php 
+            if($inicio){
+                echo "<h1>Venta de casas y apartamentos </h1>";
+            }
+            
+            ?>
         </div>
     </header>
